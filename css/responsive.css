@@ -1,0 +1,132 @@
+
+@media screen and (max-width:1199px){
+    .banner-contact-form{
+        position: absolute;
+        right: 0;
+        top: 15rem;
+        width:100%;
+        z-index: 999999999999999999;
+    }
+}
+
+@media screen and (max-width:991px){
+    #banner-section{
+        padding-bottom: 10rem;
+        margin-bottom: 50rem;
+    }
+    .banner-heading{
+        text-align: center !important;
+    }
+    .banner-content .para-size{
+        text-align: center !important;
+    }
+    .banner-contact-form{
+        left: 50%;
+        transform: translateX(-50%);
+        top: 65rem;
+        width:100%;
+    }
+    #second-section{
+        padding-top: 15rem;
+    }
+}
+@media screen and (max-width:767px){
+    #banner-section{
+        padding-bottom: 10rem;
+        margin-bottom: 45rem;
+    }
+    .banner-contact-form{
+        left: 50%;
+        transform: translateX(-50%);
+        top: 85rem;
+        width:100%;
+    }
+    .btn-box {
+        margin-top: 3rem;
+    }
+    .btn-box a{
+        display: block;
+        text-align: center !important;
+    }
+}
+@media screen and (max-width:575px){
+    .banner-contact-form{
+        left: 50%;
+        transform: translateX(-50%);
+        top: 65rem;
+        width:100%;
+    }
+    .banner-heading{
+        font-size: 3rem;
+    }
+    .banner-content .para-size{
+        font-size: 1.4rem;
+    }
+    .navbar-brand img{
+        width: 80% !important;
+    }
+}
+@media screen and (max-width:520px){
+    .banner-contact-form{
+        left: 50%;
+        transform: translateX(-50%);
+        top: 67rem;
+        width:100%;
+    }
+}
+@media screen and (max-width:470px){
+    .banner-contact-form{
+        left: 50%;
+        transform: translateX(-50%);
+        top: 72rem;
+        width:100%;
+    }
+}
+@media screen and (max-width:467px){
+    .banner-contact-form{
+        left: 50%;
+        transform: translateX(-50%);
+        top: 77rem;
+        width:100%;
+    }
+}
+@media screen and (max-width:450px){
+    .banner-contact-form{
+        left: 50%;
+        transform: translateX(-50%);
+        top: 85rem;
+        width:100%;
+    }
+}
+@media screen and (max-width:400px){
+    .banner-contact-form{
+        left: 50%;
+        transform: translateX(-50%);
+        top: 93rem;
+        width:100%;
+    }
+}
+@media screen and (max-width:370px){
+    .banner-contact-form{
+        left: 50%;
+        transform: translateX(-50%);
+        top: 96rem;
+        width:100%;
+    }
+}
+@media screen and (max-width:350px){
+    .banner-contact-form{
+        left: 50%;
+        transform: translateX(-50%);
+        top: 105rem;
+        width:100%;
+    }
+}
+@media screen and (max-width:330px){
+    .banner-contact-form{
+        left: 50%;
+        transform: translateX(-50%);
+        top: 110rem;
+        width:100%;
+    }
+}
